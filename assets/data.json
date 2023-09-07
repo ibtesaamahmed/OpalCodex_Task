@@ -1,0 +1,22 @@
+ [
+      {
+        "questionText": "What is the capital of France?",
+        "answers": ["Berlin", "Madrid", "Rome", "Paris"]
+      },
+      {
+        "questionText": "Which planet is known as the Red Planet?",
+        "answers": ["Venus", "Earth", "Mars", "Jupiter"]
+      },
+      {
+        "questionText": "Who wrote the play 'Romeo and Juliet'?",
+        "answers": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"]
+      },
+      {
+        "questionText": "What is the largest mammal in the world?",
+        "answers": ["Giraffe", "African Elephant", "Blue Whale", "Hippopotamus"]
+      },
+      {
+        "questionText": "Which gas do plants absorb ?",
+        "answers": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"]
+      }
+    ]
